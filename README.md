@@ -1,5 +1,5 @@
-#ORG
-Management of teams and collaborators in a work environment
+# ORG
+### Management of teams and collaborators in a work environment
 
 <!-- # Getting Started with Create React App
 
