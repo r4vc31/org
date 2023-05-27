@@ -32,7 +32,7 @@ const OptionList = (props) => {
                         })
                     }
                 </select>
-                <button style={{width:"20%"}} type="button" onClick={props.cambiarEstadoTeamForm}>add Team</button>
+                <button className="button" type="button" onClick={props.cambiarEstadoTeamForm}>add Team</button>
             </div>
             
         </div>

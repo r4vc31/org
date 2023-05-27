@@ -17,7 +17,7 @@
 }
 
 .lista-opciones select {
-    width: 70%;
+    width: 100%;
     border: none;
     box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
     padding: 30px 20px;
@@ -25,18 +25,18 @@
     font-size: 16px;
 }
 
-button {
+.button {
     background-color: #6278f7;
     border-radius: 10px;
     font-weight: 700;
     font-family: 'Montserrat', sans-serif;
-    padding: 16px 16px;
+    padding: 16px;
     border: none;
     color: #ffffff;
     cursor: pointer;
     
 }
 
-button:hover {
+.button:hover {
     color: #95ffd4;
 }
